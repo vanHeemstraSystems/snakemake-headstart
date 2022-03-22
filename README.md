@@ -8,3 +8,5 @@ See also "Webinar: Workflow Management Using Snakemake" at https://www.youtube.c
 Resources: https://cyverse.org/webinar-workflow-management-using-snakemake
 
 See also "Introducing Snakemake" at https://www.youtube.com/watch?v=NNPBDOBHlxo
+
+See also "Snakemake #4 Including external snakefiles, modularization" at https://www.youtube.com/watch?v=EEhmR5bQUG4
